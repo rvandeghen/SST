@@ -1,0 +1,14 @@
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley/v3_frames
+england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/v3_frames
+england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United/v3_frames
+europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht/v3_frames
+europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray/v3_frames
+europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona/v3_frames
+europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Bayern Munich 2 - 0 AS Roma/v3_frames
+france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG/v3_frames
+france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG/v3_frames
+germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich/v3_frames
+italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli/v3_frames
+italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan/v3_frames
+spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga/v3_frames
+spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia/v3_frames
