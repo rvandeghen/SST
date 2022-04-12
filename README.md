@@ -106,7 +106,7 @@ src/threshold.py \
 --tl $tl \
 --th $th
 ```
-<p align="center"><img src="img/lossweights_small.pdf" width="720" ></p>
+<p align="center"><img src="img/lossweights.png" width="500" ></p>
 
 ### Training the student
 This step is the same as for training the teacher, except that we change the `$split` to the new one.
