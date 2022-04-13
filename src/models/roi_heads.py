@@ -621,7 +621,6 @@ class RoIHeads(nn.Module):
 
                 scores_in_image = (gt_scores_in_image[indices]-self.tau_l)/(self.tau_h-self.tau_l)
                 scores_in_image.clamp_(max=1.)
-                print(scores_in_image)
                 scores_in_image[bg_inds] = 1.
 
             scores.append(scores_in_image)
