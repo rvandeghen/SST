@@ -86,7 +86,7 @@ torchrun --nproc_per_node=4 --master_addr 127.0.0.1 --master_port $PORT src/trai
          --output $output \
          --workers 10
 ```
-where `$split_unlabeled` is the unlabeled split that you want to use and must be a `json` file for (for example `unlabeled10_10_annotations.json`).  
+where `$split_unlabeled` is the unlabeled split that you want to use and must be a `json` file (for example `unlabeled10_10_annotations.json`).  
 The `json` file is composed as follows:
 ```
 {'/path/to/your/images/image_0.png': null,
