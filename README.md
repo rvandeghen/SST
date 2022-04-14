@@ -64,7 +64,7 @@ torchrun --nproc_per_node=4 --master_addr 127.0.0.1 --master_port $PORT src/trai
          --workers 10
 ```
 
-where `$dataset` is the location of your dataset files, `$split` is the training split you want to use and must be a `json` file for (for example `train10_annotations.json`).  
+where `$dataset` is the location of your dataset files, `$split` is the training split you want to use and must be a `json` file (for example `train10_annotations.json`).  
 The `json` file is composed as follows:
 ```
 {'/path/to/your/images/image_0.png': {'bbox': [[x1_1, y1_1, x2_1, y2_1, c_1], ..., [x1_n, y1_n, x2_n, y2_n, c_n]]},
