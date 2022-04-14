@@ -97,7 +97,7 @@ The `json` file is composed as follows:
 The different unlabeled matches that we used can be found in the [data](data) folder.  
 
 ### Thresholding 
-After you generated your pseudo-labels, you can threshold them with the parametrization that you want with the following script:
+After you generated your pseudo-labels, you can threshold them with the parametrization that you want with the following command:
 ```
 src/threshold.py \
 --input-file $output/pseudo_annotations.json \
