@@ -8,7 +8,7 @@ This paper will be presented ad CVPRW2022.
 This work presents a semi-supervised learning method for object detection in a context of soccer games.
 This repository can be used to reproduce the main results of the paper.
 
-<!-- ## bibtex
+## bibtex
 ```
 @inproceedings{Vandeghen2022SemiSupervised,
 title = {Semi-Supervised Training to Improve Player and Ball Detection in Soccer},
@@ -17,9 +17,8 @@ booktitle = {IEEE International Conference on Computer Vision and Pattern Recogn
 month = {June},
 year = {2022},
 address = {New Orleans, Louisiana, USA},
-keywords = {Semi-supervised, Self training, Soccer, Semantic segmentation, Artificial intelligence, Machine learning, Deep learning, TRAIL} 
 }
-``` -->
+```
 
 ## Usage
 
