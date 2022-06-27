@@ -77,7 +77,7 @@ If you want to save your model, you can specify the `$path` that you want.
 After you trained your model, you can generate pseudo-labels with the following command:
 ```
 PORT=$(( $RANDOM % 50 + 10000 ))
-torchrun --nproc_per_node=4 --master_addr 127.0.0.1 --master_port $PORT src/train.py \
+torchrun --nproc_per_node=4 --master_addr 127.0.0.1 --master_port $PORT src/label.py \
          --data-path $dataset \
          --split-unlabeled $split_unlabeled \
          --split-labeled $split_labeled \
