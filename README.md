@@ -3,7 +3,8 @@
 <p align="center"><img src="img/Main-semi-supervised.png" width="720" ></p>
 
 This repository contains the implementation of the following paper: "Semi-Supervised Training to Improve Player and Ball Detection in Soccer".
-This paper will be presented ad CVPRW2022.
+This paper will be presented ad CVPRW2022.  
+[[paper](https://arxiv.org/abs/2204.06859)]
 
 This work presents a semi-supervised learning method for object detection in a context of soccer games.
 This repository can be used to reproduce the main results of the paper.
@@ -19,6 +20,10 @@ year = {2022},
 address = {New Orleans, Louisiana, USA},
 }
 ```
+
+## Pretrained model
+
+Here is a link to download the [pretrained model](https://drive.google.com/file/d/16WwizGKNMx8MtSNLaDSB8k1DF-OKIRZD/view?usp=sharing).
 
 ## Usage
 
